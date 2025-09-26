@@ -1,5 +1,8 @@
 ![logo](https://github.com/irfan-ind/irfan-ind/blob/main/Image.jpg)
-<h1 align="center">Hi 👋, I'm Mohammad Irfan</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Irfan
+  <img src="https://media.giphy.com/media/uUlz4hzm20jFUMxnBi/giphy.gif" width="34" > 
+</h1>
+
 <h3 align="center">A passionate frontend developer and Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan-ind&label=Profile%20views&color=0e75b6&style=flat" alt="irfan-ind" /> </p>
